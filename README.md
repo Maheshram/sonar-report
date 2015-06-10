@@ -1,1 +1,1 @@
-#Welcome to sonar-report guys - give it our best
+#Welcome to sonar-report guys - lets give it our best
